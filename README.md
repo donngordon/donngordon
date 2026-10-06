@@ -11,7 +11,7 @@ I turn attacker behavior into high-quality, testable detections and build the cy
 - **Penetration testing and red teaming:** penetration tests, phishing simulations and adversary emulation (OSCP, eWPTX, CEH)
 - **Malware analysis labs:** REMnux, FLARE-VM and Cuckoo Sandbox
 - **Software and automation:** Python, PowerShell, Bash and Ansible
-
+LinkedIn: https://www.linkedin.com/in/donn-gordon-120607117 
 ## Featured
 
 - [detection-rules](https://github.com/donngordon/detection-rules): original Sigma rules mapped to MITRE ATT&CK
